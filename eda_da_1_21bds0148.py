@@ -8,7 +8,7 @@ Original file is located at
 
 EDA DA-1 21BDS0148
 """
-
+#module 2
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -132,6 +132,8 @@ print(AmogVardhanKona_cleaned_0148.head())
 print(f"\nNumber of rows before deletion: {len(AmogVardhanKona)}")
 print(f"Number of rows after deletion: {len(AmogVardhanKona_cleaned_0148)}")
 
+
+#module 3
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
